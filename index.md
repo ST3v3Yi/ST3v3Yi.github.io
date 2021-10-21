@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Records about LeetCode by ST3v3Yi
 
-You can use the [editor on GitHub](https://github.com/ST3v3Yi/ST3v3Yi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  该网页存在的目的即是为了记录学习过程、想法和别人的优秀算法，并以此激励自己学习且借此复习学到的知识。除此之外，希望自己在多年后回看这里能有种独特的回望岁月的情感。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Study Now
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  下面是具体相关的记录：
 
 ```markdown
 Syntax highlighted code block
